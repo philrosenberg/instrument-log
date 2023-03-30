@@ -2,6 +2,8 @@ This is intended to be and "issues only" repo. That means there is no code here,
 
 GitHub has a feature called "Issues", we are going to use this feature to log instrument work. In software these issues would often be bugs that people have found, but could also be feature requests. Here the "Issues" could be faults, but could also be deployments, calibrations, maintenance, etc.
 
+# Report a fault
+
 If you are an AMOF user, you can **REPORT A FAULT** with AMOF instruments on this page by going through the following steps:
 
 1. Hit the issues tab at the top of the page
@@ -11,6 +13,8 @@ If you are an AMOF user, you can **REPORT A FAULT** with AMOF instruments on thi
 5. Hit submit!
 6. You should automatically be "watching" the issue you create, so will get updates on notifications.
 7. Email the instrument scientist you are dealing with - they may not get a notification about the issue directly from here.
+
+# Logging work done on instruments
 
 If you are an AMOF instrument scientist and you **DO SOME WORK** on an instrument, you can log it in the following manner
 1. Go to the issues tab at the top of this repo page.
@@ -23,12 +27,16 @@ If you are an AMOF instrument scientist and you **DO SOME WORK** on an instrumen
 7. If your work has closed multiple issues you can go to that issue and close it. Add a comment referencing back to your original post to save typing it all out again.
 8. IMPORTANT - it is way more imortant to put some information in immediately than put perfect information in never. If you don't have the part number then omit it and add a separate comment later. If you wait to put your resolution in until another day you will probably forget and then never do it at all.
 
+# Add new instruments to the log
+
 If you are an AMOF instrument scientist you can **ADD YOUR INSTRUMENTS** in the following manner
 1. Go to the repository's Labels page. The direct link is https://github.com/philrosenberg/instrument-log/labels or you can get to it by hitting the Issues tab at the top of the page, then hit the Labels button next to the search bar.
 2. Hit the New Label button.
 3. Enter the name of your instrument as the label name. You can add a description if you want, but it isn't required.
 4. Hit Create Label!
 5. In the "Watch" dropdown in the top right, select how you wish to watch the repo. You probably want to select participating and @mentions.
+
+# View previous instrument work
 
 You may want to **VIEW PREVIOUS INSTRUMENT WORK** or view all previous work done on an instrument. This is particularly useful if you have a problem and you want to see if similar problems have happened before. You can do this in the following manner.
 1. Go to the Issues tab.
